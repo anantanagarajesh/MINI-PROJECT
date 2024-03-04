@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "639021095465",
+    "firebase_url": "https://mini-project-7a4a9-default-rtdb.firebaseio.com",
+    "project_id": "mini-project-7a4a9",
+    "storage_bucket": "mini-project-7a4a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639021095465:android:cc98e9303ccce840d2da38",
+        "android_client_info": {
+          "package_name": "com.example.healthsync_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP8PWqHsDEsvx06M5QkH-JUmsfZvIRYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639021095465:android:f6d0dcbc1626062cd2da38",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSP8PWqHsDEsvx06M5QkH-JUmsfZvIRYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
